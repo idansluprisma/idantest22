@@ -2,7 +2,7 @@ pipeline {
         agent any
         
         environment {
-            PRISMA_API_URL="https://api0.prismacloud.io"
+            PRISMA_API_URL="https://app.prismacloud.io"
         }
         
         stages {
